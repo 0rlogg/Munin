@@ -8,10 +8,6 @@
 
 - **Búsqueda en DuckDuckGo**: Utiliza la API de DuckDuckGo para acceder a resultados de búsqueda sin rastrear al usuario, manteniendo la privacidad.
 
-- **Interfaz Amigable**: Presenta los resultados de búsqueda de manera clara, mostrando títulos, snippets y enlaces para facilitar la navegación.
-
-- **Arte ASCII**: Incluye un arte ASCII representativo que mejora la experiencia del usuario al ejecutar el programa desde la terminal.
-
 ## Requisitos
 
 - Python 3.x
