@@ -50,7 +50,6 @@
 1. Para ejecutar el programa, simplemente corre el archivo munin.py desde la terminal:
 
       ```bash
-       Copiar código
        python munin.py
       ```
 
