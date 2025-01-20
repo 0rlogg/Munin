@@ -1,6 +1,6 @@
 # Munin: Buscador de Información en Línea
 
-**Munin** es una herramienta de búsqueda que permite a los usuarios realizar consultas en Google y DuckDuckGo, obteniendo resultados relevantes de forma sencilla y eficiente. Utilizando las APIs de ambos motores de búsqueda, Munin ofrece una interfaz amigable para recuperar información de la web de manera programática.
+**Munin** es una herramienta de búsqueda que permite a los usuarios realizar consultas en Google y DuckDuckGo, obteniendo resultados relevantes de forma sencilla y eficiente. Utilizando las APIs de ambos motores de búsqueda, Munin ofrece una interfaz amigable para recuperar información de la web.
 
 ## Características
 
